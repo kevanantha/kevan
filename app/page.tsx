@@ -1,5 +1,5 @@
 import Main from "./main";
 
-export default function Page() {
+export default async function Page() {
   return <Main />;
 }
