@@ -101,6 +101,12 @@ let PROJECTS = [
 
 let UIS = [
   {
+    name: "Buttons",
+    url: "https://buttons.1kev.in",
+    description:
+      "List of buttons with defferent states and animations.",
+  },
+  {
     name: "Side Nav",
     url: "https://side-nav.1kev.in",
     description:
