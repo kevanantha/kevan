@@ -1,5 +1,11 @@
 export let UIS = [
   {
+    name: "Games",
+    href: "/ui/games",
+    url: "https://buttons.1kev.in",
+    description: "App Store-like games page with animations.",
+  },
+  {
     name: "Buttons",
     href: "https://buttons.1kev.in",
     url: "https://buttons.1kev.in",

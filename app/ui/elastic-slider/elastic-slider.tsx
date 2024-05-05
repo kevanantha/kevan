@@ -116,8 +116,8 @@ export default function ElasticSlider() {
                 }}
                 className="flex grow"
               >
-                <Slider.Track className="relative isolate h-full grow overflow-hidden rounded-full bg-gray-500">
-                  <Slider.Range className="absolute h-full bg-white" />
+                <Slider.Track className="relative isolate h-full grow overflow-hidden rounded-full bg-accent">
+                  <Slider.Range className="absolute h-full bg-foreground" />
                 </Slider.Track>
               </motion.div>
               <Slider.Thumb />
