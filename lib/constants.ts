@@ -18,12 +18,12 @@ export let UIS = [
     description:
       "Side navigation component built with Next.js, Tailwindcss and Framer Motion.",
   },
-  {
-    name: "Stagger Button with Star Animation",
-    href: "https://aka.1kev.in/ui/star-button",
-    url: "https://aka.1kev.in/ui/star-button",
-    description: "Button with stagger letter and star animation.",
-  },
+  // {
+  //   name: "Stagger Button with Star Animation",
+  //   href: "https://aka.1kev.in/ui/star-button",
+  //   url: "https://aka.1kev.in/ui/star-button",
+  //   description: "Button with stagger letter and star animation.",
+  // },
   {
     name: "Horizontal-Vertical Nav",
     href: "https://framer-nav.1kev.in",
@@ -48,6 +48,12 @@ export let UIS = [
 ];
 
 export let PROJECTS = [
+  {
+    name: "Trading Exchange",
+    url: "https://exchange.1kev.in",
+    description:
+      "Trading exchange web app built with Next.js, Tailwindcss, Websockets Binance API.",
+  },
   {
     name: "evestory",
     url: "https://evestory.day",
